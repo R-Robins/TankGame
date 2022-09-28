@@ -1,6 +1,4 @@
-The tank game is a split screen two player action game where the goal is to defeat the opposite player by firing explosive shells at their tank. There are also breakable walls that the tanks can destroy by firing explosive shells at them.
-
-A game "Rainbow Reef" was made reusing code from the tank game to demonstrate object-oriented design and code reuse.
+The tank game is a split screen two player action game. A game "Rainbow Reef" was made reusing code from the tank game to demonstrate object-oriented design and code reuse.
 
 Documentation: [Game Documentation.pdf](https://github.com/R-Robins/TankGame/files/9661239/Game.Documentation.pdf)
 
